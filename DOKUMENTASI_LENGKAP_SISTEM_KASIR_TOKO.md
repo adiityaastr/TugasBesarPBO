@@ -870,39 +870,6 @@ String pass = ""; // Sesuaikan dengan password MySQL
 
 ---
 
-## 📈 ROADMAP PENGEMBANGAN
-
-### Short Term (1-2 minggu)
-1. **Lengkapi GUI Version**:
-   - Implementasi form transaksi
-   - Integrasi detail transaksi
-   - Validasi input
-
-2. **Improve CLI Version**:
-   - File-based persistence
-   - Better error handling
-   - Enhanced reporting
-
-### Medium Term (1 bulan)
-1. **Advanced Features**:
-   - User authentication
-   - Multi-user support
-   - Advanced reporting
-   - Data export/import
-
-2. **Performance Optimization**:
-   - Database indexing
-   - Query optimization
-   - Memory management
-
-### Long Term (3-6 bulan)
-1. **Enterprise Features**:
-   - Web-based interface
-   - Mobile app
-   - Cloud deployment
-   - API integration
-
----
 
 ## 🎯 KESIMPULAN
 
